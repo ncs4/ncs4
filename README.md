@@ -6,7 +6,7 @@ My comfort zone is creating web applications, APIs and bots for various platform
 
 [Codebears Team](https://github.com/thecodebears) founder and team lead. *(actually we're not doing anything rn)*
 
-## My tools
+## My stack
 
 Languages that I use:
 - **MAIN** TypeScript **3 years**
@@ -22,6 +22,33 @@ Languages that I use:
 
 **Node.js** stack:
 - Nest.js (Fastify/Electron)
+
+## My tools
+
+**UI/UX** tools:
+- Adobe Illustrator **6 years**
+- Adobe Photoshop **7 years**
+- Figma **3 years**
+
+**Editing** tools:
+- **MAIN** Visual Studio Code **5 years**
+- **LOVE** Neovim **2 years**
+
+**Workflow** tools:
+- Git (Github) **5 years**
+- Notion **2 years**
+- Slack **2 years**
+
+## My knowledge
+
+**CS**:
+- A & DS (can do hard problems) **7/10**
+- Design Patterns & Principles **8/10**
+- Encoding **9/10**
+- Cryptography **6/10**
+- Databases **8/10**
+- Networking **9/10**
+- Hardware **4/10**
 
 ## My contacts
 
