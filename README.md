@@ -1,4 +1,9 @@
-## About me
+[![](https://img.shields.io/badge/-Free%20To%20Offer-blue&logo=)](https://t.me/ncfax)
+[![](https://img.shields.io/badge/Telegram--blue?style=social&logo=telegram)](https://t.me/ncfax)
+[![](https://img.shields.io/badge/VK--blue?style=social&logo=vk)](https://vk.com/nwake)
+![](https://img.shields.io/badge/Discord-ensi%239949-blue?style=social&logo=discord)
+
+## Hello there! 👋
 
 I'm Mark and I'm a fullstack web-developer.
 
@@ -38,21 +43,6 @@ Languages that I use:
 - Git (Github) **5 years**
 - Notion **2 years**
 - Slack **2 years**
-
-## My knowledge
-
-**CS**:
-- A & DS (can do hard problems) **7/10**
-- Design Patterns & Principles **8/10**
-- Encoding **9/10**
-- Cryptography **6/10**
-- Databases **8/10**
-- Networking **9/10**
-- Hardware **4/10**
-
-## My contacts
-
-You can contact me via [Telegram](https://t.me/ncfax) or [VK](https://vk.com/nwake).
 
 ## My stats
 
