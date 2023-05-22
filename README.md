@@ -1,6 +1,6 @@
 [![](https://img.shields.io/badge/-Bio-blue&logo=)](https://bento.me/ensi)
 
-## Hello there! 👋
+## Hello, I create things
 
 I'm Mark and I'm a fullstack web-developer.
 
