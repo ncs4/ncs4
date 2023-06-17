@@ -4,7 +4,7 @@
 
 I'm Mark and I'm a fullstack web-developer.
 
-[Codebears Team](https://github.com/thecodebears) founder and team lead. *(actually we're not doing anything rn)*
+[Net Guild](https://github.com/netguild) founder and team lead. *(actually we're not doing anything rn)*
 
 ## My stats
 
