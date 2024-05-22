@@ -1,12 +1,4 @@
 [![](https://img.shields.io/badge/-Bio-blue&logo=)](https://bento.me/ensi)
 
-## Hello, I create things
-
-I'm Mark and I'm a fullstack web-developer.
-
-[Net Guild](https://github.com/netguild) founder and team lead. *(actually we're not doing anything rn)*
-
-## My stats
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ncor&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ncor&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+Glad to see you here. This is my public developer profile for open source projects.
+I do fullstack web and native development, mostly in TypeScript, Go & Rust.
